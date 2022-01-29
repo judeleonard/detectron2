@@ -3,3 +3,6 @@ This repository highlights how to apply detectron2 for several object detection 
 
 ### Object detection result for COCOKEYPOINTS Estimation
 ![](https://github.com/judeleonard/detectron2/blob/main/pose-detectron/output/Screenshot%20(60).png)
+
+### object detection result for Panoptic Instance Segmentaion
+![](https://github.com/judeleonard/detectron2/blob/main/pose-detectron/output/Screenshot%20(74).png)
